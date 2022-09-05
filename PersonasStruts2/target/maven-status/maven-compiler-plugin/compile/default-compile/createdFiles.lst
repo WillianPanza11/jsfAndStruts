@@ -1,0 +1,4 @@
+com\model\Persona.class
+com\actions\LinkAction.class
+com\model\Domicilio.class
+com\actions\PersonasAction.class
